@@ -95,7 +95,7 @@ printf "\e[0m\e[93m /_/  \___/\__,_/_/ /_/ /_/   /____/     /_/ /_/     /_/     
 printf "\e[0m\n"
 printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/htr-tech \e[0m\e[91m] \e[0m\n"
+printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/Saikohackerteamrm \e[0m\e[91m] \e[0m\n"
 printf "\e[0m\n"
 
 }
