@@ -47,7 +47,7 @@ command -v unzip > /dev/null 2>&1 || { printf "\n\e[0m\e[96m Packages are not In
 if [[ -d .htr ]]; then
 printf ""
 else
-printf "\n\e[0m\e[96m Packages are not Found ! type \e[0m\e[93mbash setup\e[0m\n\n"
+printf "\n\e[0m\e[96m Packages are not Found ! type \e[0m\e[93mbash setup.sh\e[0m\n\n"
 exit 1 
 fi
 
